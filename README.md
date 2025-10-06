@@ -1,4 +1,4 @@
-![Header](https://github.com/boomitesting/boomitesting/blob/main/assets/Git_oblojka.png)
+[![Header](https://github.com/boomitesting/boomitesting/blob/main/assets/Git_oblojka2.png)](https://github.com/boomitesting)
 
 ## Привет, меня зовут Марина!
 

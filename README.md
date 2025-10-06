@@ -21,7 +21,7 @@
 ### 🖥 Тестирование веб-приложений:
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://images.seeklogo.com/logo-png/41/1/postman-logo-png_seeklogo-412593.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
+  <img src="https://w7.pngwing.com/pngs/17/131/png-transparent-postman-logo-thumbnail-tech-companies-thumbnail.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
 </div>
 
@@ -32,9 +32,17 @@
 </div>
 
 ### 🗄 Работа с данными:
-![Static Badge](https://img.shields.io/badge/jira%20-%2001060e?style=for-the-badge&logo=jira&logoColor=075bd5&color=01060e)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+</div>
 
 ### ✏️ Работа с кодом:
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  
+</div>
 
 ### Связаться со мной:
 

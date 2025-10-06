@@ -32,6 +32,9 @@
   
 </div>
 
+---
+
+
 ### Связаться со мной:
 
  <div id="badges">
@@ -39,3 +42,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
+
+---
+[![boomitesting's GitHub stats](https://github-readme-stats.vercel.app/api?username=boomitesting&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -23,6 +23,7 @@
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
   <img src="https://github.com/boomitesting/boomitesting/blob/main/assets/Postman.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/98197909/222990768-452ebe01-9134-48af-b539-3dc9ef1eb179.png" title="swagger" alt="swagger" width="40" height="40"/>&nbsp
 </div>
 
 ### 📱 Тестирование мобильных приложений:
